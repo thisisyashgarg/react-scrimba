@@ -2,12 +2,12 @@
   "name": "scrimba-react",
   "version": "1.0.0",
   "description": "",
-  "main": "First-React-Page/src/index.js",
+  "main": "Project-1/index.js",
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "parcel First-React-Page/src/index.html",
-    "build": "parcel build /First-React-Pagesrc/index.html"
+    "start": "parcel Project-1/index.html",
+    "build": "parcel build Project-1/index.html"
   },
   "repository": {
     "type": "git",
