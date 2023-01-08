@@ -4,6 +4,8 @@ body {
   font-family: "Inter", sans-serif;
   color: white;
   background-color: #23252c;
+  display: flex;
+  flex-direction: column;
 }
 
 p {
@@ -19,6 +21,8 @@ p {
   flex-direction: column;
   border-radius: 20px;
   overflow: hidden;
+  align-items: center; /* Add this line */
+  justify-content: center;
 }
 
 .dp {
@@ -39,6 +43,7 @@ p {
   width: 70%;
   height: 50px;
   border-radius: 6px;
+  align-items: center;
 }
 
 .email-button > span {
@@ -50,6 +55,10 @@ p {
 .email-button > span > img {
   width: 30px;
   padding-right: 5px;
+}
+
+.email {
+  font-weight: lighter;
 }
 
 .footer {

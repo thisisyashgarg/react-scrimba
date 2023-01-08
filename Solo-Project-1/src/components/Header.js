@@ -30,7 +30,7 @@ function EmailButton() {
     <button className="email-button">
       <span>
         <img src={emailLogo} />
-        <h2>Email</h2>
+        <h3 className="email">Email</h3>
       </span>
     </button>
   );
