@@ -6,8 +6,8 @@
   "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "parcel Project-1/index.html",
-    "build": "parcel build Project-1/index.html"
+    "start": "parcel Solo-Project-1/index.html",
+    "build": "parcel build Solo-Project-1/index.html"
   },
   "repository": {
     "type": "git",
